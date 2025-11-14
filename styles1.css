@@ -49,7 +49,7 @@ ul li{
 li a{
 	text-decoration: none;
 	display: block;
-	width: 75px;
+	width: 200px;
 	padding: 14px 15px;
 	color: #fff;
 }
@@ -59,6 +59,7 @@ li a:hover{
 }
 .active{
 	font-weight: bold;
-	border-bottom: solid 2px #566;
+	border-bottom: solid 4px #566;
+	color: #ffba08 ;
 }
 
